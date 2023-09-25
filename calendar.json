@@ -1,0 +1,210 @@
+{
+  "UID": "y0",
+  "favorites": [
+    {
+      "name": "january",
+      "UID": "m1",
+      "PID": "y0",
+      "URL": null,
+      "children": [
+        {
+          "name": "jan-week-01",
+          "UID": "m1-w1",
+          "PID": "m1",
+          "URL": "jan-week-01.com",
+          "children": []
+        },
+        {
+          "name": "jan-week-02",
+          "UID": "m1-w2",
+          "PID": "m1",
+          "URL": "jan-week-02.com",
+          "children": []
+        },
+        {
+          "name": "jan-week-03",
+          "UID": "m1-w3",
+          "PID": "m1",
+          "URL": "jan-week-03.com",
+          "children": []
+        },
+        {
+          "name": "jan-week-04",
+          "UID": "m1-w4",
+          "PID": "m1",
+          "URL": "",
+          "children": [
+            {
+              "name": "jan-week-04-sunday",
+              "UID": "m1-w4-sun",
+              "PID": "m1-w4",
+              "URL": "jan-week-04-sunday.com",
+              "children": []
+            },
+            {
+              "name": "jan-week-04-monday",
+              "UID": "m1-w4-mon",
+              "PID": "m1-w4",
+              "URL": "jan-week-04-monday.com",
+              "children": []
+            },
+            {
+              "name": "jan-week-04-tuesday",
+              "UID": "m1-w4-tue",
+              "PID": "m1-w4",
+              "URL": "",
+              "children": [
+                {
+                  "name": "jan-week-04-tuesday-01:00",
+                  "UID": "m1-w4-tue-0100",
+                  "PID": "m1-w4-tue",
+                  "URL": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "febuary",
+      "UID": "m2",
+      "PID": "y0",
+      "URL": null,
+      "children": [
+        {
+          "name": "feb-week-01",
+          "UID": "m2-w1",
+          "PID": "m2",
+          "URL": "feb-week-01.com",
+          "children": []
+        },
+        {
+          "name": "feb-week-02",
+          "UID": "m2-w2",
+          "PID": "m2",
+          "URL": "feb-week-02.com",
+          "children": []
+        },
+        {
+          "name": "feb-week-03",
+          "UID": "m2-w3",
+          "PID": "m2",
+          "URL": "feb-week-03.com",
+          "children": []
+        },
+        {
+          "name": "feb-week-04",
+          "UID": "m2-w4",
+          "PID": "m2",
+          "URL": "",
+          "children": [
+            {
+              "name": "feb-week-04-sunday",
+              "UID": "m2-w4-sun",
+              "PID": "m2-w4",
+              "URL": "feb-week-04-sunday.com",
+              "children": []
+            },
+            {
+              "name": "feb-week-04-monday",
+              "UID": "m2-w4-mon",
+              "PID": "m2-w4",
+              "URL": "feb-week-04-monday.com",
+              "children": []
+            },
+            {
+              "name": "feb-week-04-tuesday",
+              "UID": "m2-w4-tue",
+              "PID": "m2-w4",
+              "URL": "",
+              "children": [
+                {
+                  "name": "feb-week-04-tuesday-01:00",
+                  "UID": "m2-w4-tue-0100",
+                  "PID": "m2-w4-tue",
+                  "URL": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "march",
+      "UID": "m3",
+      "PID": "y0",
+      "URL": null,
+      "children": [
+        {
+          "name": "mar-week-01",
+          "UID": "m3-w1",
+          "PID": "m3",
+          "URL": "mar-week-01.com",
+          "children": []
+        },
+        {
+          "name": "mar-week-02",
+          "UID": "m3-w2",
+          "PID": "m3",
+          "URL": "mar-week-02.com",
+          "children": []
+        },
+        {
+          "name": "mar-week-03",
+          "UID": "m3-w3",
+          "PID": "m3",
+          "URL": "mar-week-03.com",
+          "children": []
+        },
+        {
+          "name": "mar-week-04",
+          "UID": "m3-w4",
+          "PID": "m3",
+          "URL": "",
+          "children": [
+            {
+              "name": "mar-week-04-sunday",
+              "UID": "m3-w4-sun",
+              "PID": "m3-w4",
+              "URL": "mar-week-04-sunday.com",
+              "children": []
+            },
+            {
+              "name": "mar-week-04-monday",
+              "UID": "m3-w4-mon",
+              "PID": "m3-w4",
+              "URL": "mar-week-04-monday.com",
+              "children": []
+            },
+            {
+              "name": "mar-week-04-tuesday",
+              "UID": "m3-w4-tue",
+              "PID": "m3-w4",
+              "URL": "",
+              "children": [
+                {
+                  "name": "mar-week-04-tuesday-01:00",
+                  "UID": "m3-w4-tue-0100",
+                  "PID": "m3-w4-tue",
+                  "URL": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "april",
+      "UID": "m4",
+      "PID": "y0",
+      "URL": null,
+      "children": []
+    }
+  ]
+}
